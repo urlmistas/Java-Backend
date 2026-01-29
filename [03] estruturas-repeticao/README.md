@@ -1,8 +1,8 @@
 # 📘 Módulo 8 | Estruturas de Repetição (EBAC)
 
-Este projeto faz parte de uma atividade prática do curso de Back-end Java da **EBAC** e tem como objetivo praticar alguns conceitos básicos de **Java** que aprendemos até o momento, como entrada de dados via terminal e estruturas de repetição.
+Este projeto faz parte de uma atividade prática do curso de Back-end Java da **EBAC** e tem como objetivo praticar alguns conceitos básicos de **Java** que aprendemos até o momento, como entrada de dados, manipulação de variáveis e estruturas de repetição.
 
-O foco aqui não é complexidade, mas sim boas práticas, validação de entrada e lógica.
+Lembrando: O foco aqui não é complexidade, mas sim boas práticas, validação de entrada e lógica.
 
 ---
 
@@ -36,7 +36,7 @@ O programa interage com o usuário pelo terminal e realiza as seguintes ações:
 
 - **Java**
 - **JDK** (qualquer versão compatível com `Scanner`)
-- Terminal / Console
+- **IntelliJ IDEA**
 
 ---
 
@@ -48,5 +48,8 @@ O programa interage com o usuário pelo terminal e realiza as seguintes ações:
 
 ---
 
-📚 Exercício educacional — EBAC  
-💻 Desenvolvido para fins de estudo
+<div align="center">
+   📚 Exercício educacional | Desenvolvido para fins de estudo 💻
+</div>
+
+
