@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Backend.iml" filepath="$PROJECT_DIR$/.idea/Java-Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[01] variaveis/[01] variaveis.iml" filepath="$PROJECT_DIR$/[01] variaveis/[01] variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[02] operadores-relacionais-logicos/[02] operadores-relacionais-logicos.iml" filepath="$PROJECT_DIR$/[02] operadores-relacionais-logicos/[02] operadores-relacionais-logicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[03] estruturas-repeticao/[03] estruturas-repeticao.iml" filepath="$PROJECT_DIR$/[03] estruturas-repeticao/[03] estruturas-repeticao.iml" />
+    </modules>
+  </component>
+</project>
