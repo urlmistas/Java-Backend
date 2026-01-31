@@ -8,7 +8,7 @@ Lembrando: O foco aqui não é complexidade, mas sim boas práticas, validação
 
 ## 🎯 Objetivo dos programas
 
-### 🟢 Pratique 1
+### 🟢 Pratique1 1
 
 O programa interage com o usuário pelo terminal e realiza as seguintes ações:
 
@@ -22,7 +22,7 @@ O programa interage com o usuário pelo terminal e realiza as seguintes ações:
    - N vezes, caso o nome tenha mais de 6 caracteres
    - Apenas uma vez, caso tenha 5 ou menos caracteres
 
-### 🟢 Pratique 2
+### 🟢 Pratique1 2
 
 Programa que solicita um número inteiro ao usuário e exibe a **tabuada** desse número utilizando a estrutura de repetição `while`.
 
@@ -31,7 +31,7 @@ Funcionalidades:
 - Controle de repetição com `while`
 - Exibição da tabuada de 1 a 10 no console
 
-### 🟢 Pratique 3
+### 🟢 Pratique1 3
 
 Programa que simula um **menu interativo** utilizando a estrutura `do-while`.
 
