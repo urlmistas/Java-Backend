@@ -1,6 +1,6 @@
 # 📘 Módulos 8 e 9 | Estruturas de Repetição (EBAC)
 
-Este projeto faz parte de uma atividade prática do curso de Back-end Java da **EBAC** e tem como objetivo praticar alguns conceitos básicos de **Java** que aprendemos até o momento, como entrada de dados, manipulação de variáveis e estruturas de repetição.
+Este projeto faz parte de uma atividade prática do curso de Back-end Java da **EBAC** e tem como objetivo praticar alguns conceitos básicos de **Java**, com foco em lógica, entrada de dados, validação e estruturas de repetição.
 
 Lembrando: O foco aqui não é complexidade, mas sim boas práticas, validação de entrada e lógica.
 
@@ -51,9 +51,13 @@ O menu continua sendo exibido até que o usuário escolha a opção de sair.
 ## 🧠 Conceitos praticados
 
 - Entrada de dados com `Scanner`
-- Validação de input (`isEmpty`, `hasNextInt`)
-- Estruturas de repetição (`while`, `for`)
-- Condições (`if / else`)
+- Validação de entrada (`isEmpty`, `hasNextInt`)
+- Estruturas de repetição:
+    - `while`
+    - `do-while`
+    - `for`
+- Estruturas condicionais (`if / else`)
+- Controle de fluxo
 - Boas práticas de leitura e organização de código
 
 ---
