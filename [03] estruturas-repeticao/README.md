@@ -24,6 +24,28 @@ O programa interage com o usuário pelo terminal e realiza as seguintes ações:
 
 ### Pratique 2
 
+Programa que solicita um número inteiro ao usuário e exibe a **tabuada** desse número utilizando a estrutura de repetição `while`.
+
+Funcionalidades:
+- Leitura de número inteiro
+- Controle de repetição com `while`
+- Exibição da tabuada de 1 a 10 no console
+
+### Pratique 3
+
+Programa que simula um **menu interativo** utilizando a estrutura `do-while`.
+
+Opções disponíveis:
+- **Opção 1:** Continuar
+   - Solicita ao usuário que digite uma palavra ou frase
+   - Exibe a frase no console
+- **Opção 2:** Sair
+   - Exibe a mensagem:  
+     _"Obrigado por utilizar o nosso sistema, espero que tenha gostado."_
+   - Encerra o programa
+
+O menu continua sendo exibido até que o usuário escolha a opção de sair.
+
 ---
 
 ## 🧠 Conceitos praticados
