@@ -1,4 +1,4 @@
-# 📘 Módulo 8 | Estruturas de Repetição (EBAC)
+# 📘 Módulos 8 e 9 | Estruturas de Repetição (EBAC)
 
 Este projeto faz parte de uma atividade prática do curso de Back-end Java da **EBAC** e tem como objetivo praticar alguns conceitos básicos de **Java** que aprendemos até o momento, como entrada de dados, manipulação de variáveis e estruturas de repetição.
 
@@ -6,7 +6,9 @@ Lembrando: O foco aqui não é complexidade, mas sim boas práticas, validação
 
 ---
 
-## 🎯 Objetivo do programa
+## 🎯 Objetivo dos programas
+
+### Pratique 1
 
 O programa interage com o usuário pelo terminal e realiza as seguintes ações:
 
@@ -19,6 +21,8 @@ O programa interage com o usuário pelo terminal e realiza as seguintes ações:
 5. Exibe o nome do usuário:
    - N vezes, caso o nome tenha mais de 6 caracteres
    - Apenas uma vez, caso tenha 5 ou menos caracteres
+
+### Pratique 2
 
 ---
 
